@@ -4,8 +4,6 @@
 
   </div>
 
-
-<br /><br />
 ## ✨Yena✨
 <div style= display: flex; gap: 10px; margin-top: 20px; align-items: center;>
  <a href="https://kcong0505.tistory.com/"><img src="https://img.shields.io/badge/tistory-DF592B?style=flat-square&logo=tistory&logoColor=white" /> </a>
