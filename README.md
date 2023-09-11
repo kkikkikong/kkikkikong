@@ -1,5 +1,4 @@
-<div style=text-align: right;">[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkkikkikong%2Fportfolio&count_bg=%23EFD4A9&title_bg=%23AA7D6A&icon=&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkkikkikong%2Fportfolio&count_bg=%23EFD4A9&title_bg=%23AA7D6A&icon=&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 ___
 
 ## ✨Yena✨
