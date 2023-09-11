@@ -2,8 +2,9 @@
 ___
 ## ✨Yena✨
 <div style= display: flex; gap: 10px;>
- <img src="https://img.shields.io/badge/tistory-DF592B?style=flat-square&logo=tistory&logoColor=white" />(https://kcong0505.tistory.com/)
- <img src="https://img.shields.io/badge/notion-FFF?style=flat-square&logo=notion&logoColor=white" /> (https://hospitable-mitten-6bb.notion.site/f9b0c2043fdf4c4eb773b5b888b1ebc8?pvs=4)
+
+ <a href="https://kcong0505.tistory.com/"><img src="https://img.shields.io/badge/tistory-DF592B?style=flat-square&logo=tistory&logoColor=white" /> </a>
+<a href="https://hospitable-mitten-6bb.notion.site/f9b0c2043fdf4c4eb773b5b888b1ebc8?pvs=4"><img src="https://img.shields.io/badge/notion-555?style=flat-square&logo=notion&logoColor=white" /></a>
 </div>
 
 <!--
