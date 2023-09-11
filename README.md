@@ -4,12 +4,16 @@
 
   </div>
 
+
+
 <div align = center> 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=473F36&width=435&lines=Front-end+engineer+Yena)](https://git.io/typing-svg)
 
 ## ✨Yena✨
 <div style= display: flex; gap: 10px; margin-top: 20px; align-items: center;>
- <a href="https://kcong0505.tistory.com/"><img src="https://img.shields.io/badge/tistory-DF592B?style=flat-square&logo=tistory&logoColor=white" /> </a>
-<a href="https://hospitable-mitten-6bb.notion.site/f9b0c2043fdf4c4eb773b5b888b1ebc8?pvs=4"><img src="https://img.shields.io/badge/notion-555?style=flat-square&logo=notion&logoColor=white" /></a>
+ <a href="https://kcong0505.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-DF592B?style=flat-square&logo=tistory&logoColor=white" /> </a>
+<a href="https://hospitable-mitten-6bb.notion.site/f9b0c2043fdf4c4eb773b5b888b1ebc8?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-555?style=flat-square&logo=notion&logoColor=white" /></a>
 </div>
 
 </div>
