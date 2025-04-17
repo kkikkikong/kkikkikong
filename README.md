@@ -1,5 +1,5 @@
 <div align = center> 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=473F36&background=FFFFFF03&width=285&lines=Hi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=473F36&width=435&lines=Front-end+engineer+Yena)](https://git.io/typing-svg)
 <br /><br />
 <div style= display: flex; gap: 10px; margin-top: 20px; align-items: center;>
  <a href="https://kcong0505.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-DF592B?style=flat-square&logo=tistory&logoColor=white" /> </a>
